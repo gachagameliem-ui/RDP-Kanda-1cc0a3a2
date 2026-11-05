@@ -3,4 +3,5 @@ Kanda RDP (GitHub Actions + bore.pub tunnel)
 
 ## Ket noi RDP
 
-- **RDP #1**: `bore.pub:58143` - User: `Kandagawa` / Pass: `Kandagw@12345`
+- **RDP #1**: `bore.pub:53277` - User: `Kandagawa` / Pass: `Kandagw@12345`
+
